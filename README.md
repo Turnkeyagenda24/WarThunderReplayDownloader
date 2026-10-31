@@ -13,3 +13,8 @@ How to run?
 6. Profit.
 
 Video Demonstration: https://youtu.be/YI3HF1UX2NM
+
+How to use the files in warthunder?
+1. Drag the downloaded files all into the warthunder replay folder
+2. Find the replay in the replays list in warthunder
+3. Double click the 0000 one, and it should load.
